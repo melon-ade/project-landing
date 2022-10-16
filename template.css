@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding: 0;
+    border:0;
+}
+.black {
+    display:flex;
+    background-color:#1F2937;
+    color:#F9FAF8;
+    width:1440px;
+    height:250px;
+}
+#logotext {
+    font-size: 24px;
+    display:flex;
+}
+.right {
+    color: #E5E7EB;
+    display:flex;
+    align-items: right;
+    margin-left:35%;
+}
+#placeholderimage {
+    background-color:grey;
+    align-self:flex-end;
+    justify-content:right;
+}
+button {
+    width:50px;
+    height:50px;
+}
+
+
